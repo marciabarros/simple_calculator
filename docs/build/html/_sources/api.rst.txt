@@ -1,0 +1,7 @@
+###
+API
+###
+
+
+.. automodule:: calculator
+    :members: 
